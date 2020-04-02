@@ -1,0 +1,65 @@
+body {
+	font-size: 24px;
+	font-family: Tahoma;
+	color: #333333;
+}
+.header {
+	text-align: center;
+	margin-top: 120px;
+	margin-bottom: 80px;
+}
+.header strong {
+	display: block;
+	font-weight: 300;s
+}
+.header, .feature-header span {
+	font-weight: 900;
+}
+.form {
+	border:5px solid #472cc3;
+	padding: 35px 20px;
+}
+.form input {
+	height:50px;
+	margin: 10px auto;
+}
+.form p {
+	font-size: 20px;
+	font-weight: 900;
+	text-align: center;
+	margin-bottom: 35px;
+}
+.btn {
+	background-color: #3c3cdd;
+}
+.feature-header {
+	text-align: center;
+	margin-top: 120px;
+}
+.text {
+	font-size: 10px;
+}
+.box p {
+	font-size: 16px;
+	font-weight: 900;
+}
+.box {
+	text-align: center;
+	margin: 80px auto;
+}
+.section span {
+	font-weight: 900;
+	font-size: 24px;
+	}
+	.section {
+		margin: 80px auto;
+	}
+.row {
+	text-align: center;
+}
+.one-line {
+	margin: 30px auto;
+}
+.two-line {
+	margin-bottom: 50px;
+}
